@@ -23,7 +23,7 @@ current_song = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "🎵 Hello! Send me a song name or YouTube link!"
+        "Hello sir.I am jack sparrow😎😎. Send me a song name or YouTube link!"
     )
 
 # ================= DOWNLOAD / ADD =================
