@@ -14,8 +14,7 @@ from telegram.ext import (
     ContextTypes,
     filters,
 )
-
-BOT_TOKEN = os.getenv("8052637286:AAHkFwnX-Sjepyoos35_6y0pA8izoRZd14g")
+BOT_TOKEN ="8052637286:AAHkFwnX-Sjepyoos35_6y0pA8izoRZd14g"
 
 music_queues = defaultdict(list)
 current_song = {}
